@@ -1,0 +1,68 @@
+Exchange Rates
+
+The exchange rate is the value of a nation's currency in terms of another currency.
+
+Appreciation
+
+A rise in the value of a currency in terms of another currency is called currency appreciation.
+A fall in the value of one currency in terms of another currency is called currency depreciation.
+
+Flexible Exchange Rates
+
+A flexible exchange rate is determined by supply and demand.
+There is no intervention in the foreign exchange market by the central bank or government.
+
+Fixed Exchange Rate
+
+A fixed exchange rate policy sets the exchange rate at a value decided by the government or central bank.
+All forces of supply and demand are blocked.
+In the past, most fixed exchange rates were linked to the U.S. dollar.
+
+Crawling Peg
+
+Works like a fixed exchange rate but the target value changes.
+A target path is selected for the exchange rate.
+There is government and central bank intervention in the foreign exchange market to achieve the path.
+China is an example of a country that uses a crawling peg.
+
+The Demand for Canadian Dollars
+
+The demand for canadian dollars is the relationship between the price of a canadian dollar and the quantity demanded.
+Moving to the left of the x-axis indicates a decrease in demand whilst moving to the right indicates an increase in demand.
+
+The Supply for Canadian Dollars
+
+The relationship between the price of a Canadian dollar and the quantity supplied.
+Moving to the left of the x-axis indicates a decrease in supply whilst moving to the right indicates an increase in supply.
+
+The Foreign Exchange Market
+
+Factors that cause Exchange Rate Fluctuations
+
+- Product Demand
+A rise in demand for Canada's products. This increases the demand and decreases the supply of Canada's currency.
+Leads to an increase in the value of the Canadian Dollar.
+
+An increase in the supply of Canadian dollars and a decrease in the demand for Canadian dollars leads to a decrease in the value of the Canadian dollar.
+
+- Price Differences
+
+Price differences examples include a rise in Canada's prices relative to the US's, decrease demand and increased supply of Canada's currency and leads to a decrease of the value of the Canadian dollar
+
+- Interest Rates
+
+A rise in Canada's interest rate relative to the US's. It increases the demand and decreases supply of Canada's currency. Also leads to an increase in the value of the Canadian dollar.
+
+- Speculation
+
+Investors expect the value of Canada's currency to increase.
+An immediate increase in demand and decrease in supply of Canada's currency.
+Leads to an increase in the value of the Canadian dollar.
+
+Exchange Rates and prices
+
+Is Canadian pricing fair when compared to the US?
+Cc x Oc Od, in terms of current currency x other currency = other dollar (price)
+
+Canadian dollar price x U.S Dollars to buy one CDN dollar = US dollar price
+
